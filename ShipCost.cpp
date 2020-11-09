@@ -3,7 +3,7 @@
 // Fall Semester 
 
 //Shipping Redux 
-//Program 4 
+
 
 //This program takes in values from a file 
 // and outputs the cost for a specific shipping company // 
